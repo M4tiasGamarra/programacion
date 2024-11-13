@@ -1,8 +1,12 @@
 #include <stdio.h>
-float cmpl(float cm){
+// Nombre y apellido:Matias Gamarra 6°2°
+// Link GIT: https://github.com/M4tiasGamarra
+// Nombre y apellido Lider:Matias Gamarra 6°2°
+// Link lider de Grupo: https://github.com/M4tiasGamarra
+float cmpl(float cm){ //Funcion conversion de centimetros a pulgadas
     return cm/2.54;
 }
-float plcm(float pul){
+float plcm(float pul){ //Funcion conversion de pulgadas a centimetros
     return pul*2.54;
 }
 int main() {
