@@ -1,4 +1,7 @@
 #include <stdio.h>
+//Código de la alumna Crystal López 
+//link de GIT personal: https://github.com/ilopezcrystal
+//link de Git grupal (lider): https://github.com/M4tiasGamarra
 int repetir (char texto[], int num){
     for (int x=1;x<=num;x++){
         printf("%s \n",texto);
